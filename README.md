@@ -1,5 +1,5 @@
 Hello There 👋 I'm Ben cohen. 
-- 👀 I’m interested in software engineering, cybersecurity, and Frontend programming.
+- 👀 I’m interested in software engineering, cybersecurity, and Front-end programming.
 - 🌱 I’m currently learning data structures/algorithms, Discrete Mathematics, Java
 - 💞️ Ask me about Software Development, Computer Science theory, data analysis
 - Contact me on Linedin @BenjaminCohen
